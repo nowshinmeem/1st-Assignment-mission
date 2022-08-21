@@ -1,0 +1,125 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+}
+.stay-focused{
+    display: flex;
+}
+.width-flex{
+    width: 50%;
+}
+.width-flex img{
+    width: 60%;
+}
+.stay-focused h1{
+    font-size: 40px;
+    font-family: 'Abril Fatface', cursive;
+    font-weight: 100;
+    border-left: 3px solid;
+    border-color: red;
+    padding-left: 10px;
+}
+.stay-padding{
+    padding: 60px 180px ;
+}
+span{
+    color: orange;
+}
+a{
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+}
+p{
+    padding-bottom: 10px;
+}
+.scroll{
+    padding-top: 25px;
+}
+.my-mission h1{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.second-flex{
+    display: flex;
+}
+
+.second-flex-design{
+    padding: 30px 30px;
+    border: 2px;
+    border-radius: 30px;
+    margin-top: 30px;
+    height: 350px;
+    width: 400px;
+}
+#mission{
+    background-color: rgb(196, 235, 250);
+    margin-left: 100px;
+    margin-right: 10px;
+}
+#vission{
+    background-color: rgb(244, 214, 218);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+#goals{
+    background-color: rgb(239, 184, 162);
+    margin-left: 10px;
+    margin-right: 100px;
+}
+#mission img{
+    width: 55%;
+}
+#vission img{
+    width: 50%;
+}
+#goals img{
+    width: 50%;
+}
+.develop-flex{
+    display: flex;
+    margin: 100px 100px;
+}
+.develop-flex img{
+    width: 32%;
+}
+.develop{
+    margin-left: 50px;
+    background-image: url(images/shapes/shape-1.png);
+    background-position:left;
+    background-size: 220px;
+    background-repeat: no-repeat;
+}
+.dev-limit{
+    padding: 60px 70px;
+}
+.dev-limit h1{
+    font-size: 30px;
+}
+.global-img img{
+    width: 28%;
+    padding-bottom: 70px;
+}
+.global{
+    margin-right: 50px;
+    background-image: url(images/shapes/shape-1.png);
+    background-position: right bottom;
+    background-size: 220px;
+    background-repeat: no-repeat;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 10px 10px;
+}
+footer span{
+    color: red;
+}
+footer h1{
+    font-family: 'Lobster', cursive;
+}
